@@ -1,0 +1,36 @@
+body {  
+background-image: url("http://wallino.com/wp-content/uploads/2015/11/space-hd-desktop.jpg");
+background-size: cover;
+margin-top: 3em;
+border-top: solid 1px silver;
+border-bottom: solid 1px silver;
+padding: 3em 0 0 0;
+color: white;
+font-size: 23pt;
+font-family: 'Alegreya Sans SC', sans-serif;
+height: 800px;
+}
+
+
+  
+.formBill {
+  width: 300px;
+  display: block;
+  text-align: left;
+  display: block;
+}
+
+input[type=text] {
+  font-size: 40pt;
+}
+
+button {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+
+.hName {
+  font-size: 21pt;
+}

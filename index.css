@@ -1,0 +1,55 @@
+#lives {
+  width: 100px;
+  height: 25px; 
+  background-color: red;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#stars{
+  width: 100px;
+  height: 25px;
+  background-color: blue;
+}
+
+#spaceship{
+  width: 50px;
+  top:500px;
+}
+
+#lives {
+  width: 100px;
+  height: 25px; 
+  background-color: red;
+}
+
+#stars{
+  width: 100px;
+  height: 25px;
+  background-color: blue;
+}
+
+#spaceship{
+  position: absolute;
+  left: 300px
+   
+}
+
+#playbutton{
+		color:#9900CC;
+		font-size:30px;
+		width: 405px;
+		height: 160px;
+		border: 15px #660066;
+		border-style:ridge;
+}
+
+#body{
+ background-image:url("https://media.giphy.com/media/AKatb1AVetIoE/giphy.gif");
+}
+#GameBody{
+   position: relative;
+    min-width: 1024px;
+    min-height: 768px;
+    height: 100%;
+    overflow: hidden;
+}
